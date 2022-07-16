@@ -1,0 +1,2 @@
+# diriiko.github.io
+blog
